@@ -35,6 +35,15 @@
 </script>
 
 <style>
+  ::selection{
+    background-color: #000;
+    color: #fff;
+  }
+
+  table th::selection{
+    background-color: #fff;
+    color: #000;
+  }
   .main{
     display: flex;
     flex-direction: column;
