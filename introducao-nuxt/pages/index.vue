@@ -27,7 +27,7 @@
           {id: 0, nome: "Flash", poder: (Math.random() * 100).toFixed(0)},
           {id: 1, nome: "Batman", poder: (Math.random() * 100).toFixed(0)},
           {id: 2, nome: "Dr. Manhattan", poder: (Math.random() * 100).toFixed(0)},
-          {id: 2, nome: "John Constantine", poder: (Math.random() * 100).toFixed(0)},
+          {id: 3, nome: "John Constantine", poder: (Math.random() * 100).toFixed(0)},
         ]
       }
     }
