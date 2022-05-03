@@ -35,6 +35,12 @@
 </script>
 
 <style>
+  .main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
   table * {
     border: 1px solid #000;
     border-collapse: collapse;
